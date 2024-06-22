@@ -130,6 +130,7 @@
 }
 
 .bet-button {
+    font-family: inherit;
     padding: 12px 32px;
     border: 1px solid currentColor;
     text-decoration: none;
